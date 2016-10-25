@@ -1,5 +1,5 @@
-package org.ssb.jdbc;
-
+/* Create the table student with id as varchar2, name as varchar2, branch as varchar2, semester as varchar2
+then execute the program*/
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
